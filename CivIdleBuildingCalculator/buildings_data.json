@@ -1,0 +1,294 @@
+{
+  "Embassy": {
+    "LVL": 20,
+    "Gives": [
+      {
+        "Key": "Diplomacy",
+        "Value": 40
+      }
+    ],
+    "Needs": [
+      {
+        "Key": "Law",
+        "Value": 100
+      },
+      {
+        "Key": "Politics",
+        "Value": 100
+      },
+      {
+        "Key": "Philosophy",
+        "Value": 100
+      }
+    ]
+  },
+  "Courthouse": {
+    "LVL": 20,
+    "Gives": [
+      {
+        "Key": "Law",
+        "Value": 80
+      }
+    ],
+    "Needs": [
+      {
+        "Key": "Philosophy",
+        "Value": 20
+      },
+      {
+        "Key": "Faith",
+        "Value": 20
+      },
+      {
+        "Key": "Culture",
+        "Value": 20
+      }
+    ]
+  },
+  "Parliament": {
+    "LVL": 20,
+    "Gives": [
+      {
+        "Key": "Politics",
+        "Value": 80
+      }
+    ],
+    "Needs": [
+      {
+        "Key": "Culture",
+        "Value": 40
+      },
+      {
+        "Key": "Philosophy",
+        "Value": 40
+      },
+      {
+        "Key": "Law",
+        "Value": 40
+      }
+    ]
+  },
+  "University": {
+    "LVL": 20,
+    "Gives": [
+      {
+        "Key": "Philosophy",
+        "Value": 100
+      }
+    ],
+    "Needs": [
+      {
+        "Key": "Poem",
+        "Value": 40
+      },
+      {
+        "Key": "Faith",
+        "Value": 40
+      }
+    ]
+  },
+  "Writer's Guild": {
+    "LVL": 25,
+    "Gives": [
+      {
+        "Key": "Poem",
+        "Value": 100
+      }
+    ],
+    "Needs": [
+      {
+        "Key": "Paper",
+        "Value": 50
+      }
+    ]
+  },
+  "Shrine": {
+    "LVL": 25,
+    "Gives": [
+      {
+        "Key": "Faith",
+        "Value": 300
+      }
+    ],
+    "Needs": [
+      {
+        "Key": "Horse",
+        "Value": 25
+      },
+      {
+        "Key": "Alchool",
+        "Value": 25
+      }
+    ]
+  },
+  "Museum": {
+    "LVL": 20,
+    "Gives": [
+      {
+        "Key": "Culture",
+        "Value": 100
+      }
+    ],
+    "Needs": [
+      {
+        "Key": "Music",
+        "Value": 40
+      },
+      {
+        "Key": "Painting",
+        "Value": 40
+      }
+    ]
+  },
+  "Musician's Guild": {
+    "LVL": 20,
+    "Gives": [
+      {
+        "Key": "Music",
+        "Value": 116.6
+      }
+    ],
+    "Needs": [
+      {
+        "Key": "Alchool",
+        "Value": 40
+      }
+    ]
+  },
+  "Painter's Guild": {
+    "LVL": 20,
+    "Gives": [
+      {
+        "Key": "Painting",
+        "Value": 60
+      }
+    ],
+    "Needs": [
+      {
+        "Key": "Paper",
+        "Value": 40
+      }
+    ]
+  },
+  "Paper Maker": {
+    "LVL": 25,
+    "Gives": [
+      {
+        "Key": "Paper",
+        "Value": 245.7
+      }
+    ],
+    "Needs": [
+      {
+        "Key": "Wood",
+        "Value": 25
+      },
+      {
+        "Key": "Water",
+        "Value": 25
+      }
+    ]
+  },
+  "Stable": {
+    "LVL": 20,
+    "Gives": [
+      {
+        "Key": "Horse",
+        "Value": 180
+      }
+    ],
+    "Needs": [
+      {
+        "Key": "Wheat",
+        "Value": 40
+      }
+    ]
+  },
+  "Brewery": {
+    "LVL": 25,
+    "Gives": [
+      {
+        "Key": "Alchool",
+        "Value": 100
+      }
+    ],
+    "Needs": [
+      {
+        "Key": "Wheat",
+        "Value": 25
+      },
+      {
+        "Key": "Water",
+        "Value": 25
+      }
+    ]
+  },
+  "Wheat Farm": {
+    "LVL": 20,
+    "Gives": [
+      {
+        "Key": "Wheat",
+        "Value": 100
+      }
+    ],
+    "Needs": []
+  },
+  "Aqueduct": {
+    "LVL": 20,
+    "Gives": [
+      {
+        "Key": "Water",
+        "Value": 240
+      }
+    ],
+    "Needs": []
+  },
+  "Logging Camp": {
+    "LVL": 25,
+    "Gives": [
+      {
+        "Key": "Wood",
+        "Value": 362.5
+      }
+    ],
+    "Needs": []
+  },
+  "Research Lab": {
+    "LVL": 20,
+    "Gives": [
+      {
+        "Key": "Science",
+        "Value": 1500000
+      }
+    ],
+    "Needs": [
+      {
+        "Key": "Culture",
+        "Value": 40
+      },
+      {
+        "Key": "Philosophy",
+        "Value": 40
+      }
+    ]
+  },
+  "School": {
+    "LVL": 25,
+    "Gives": [
+      {
+        "Key": "Science",
+        "Value": 160000
+      }
+    ],
+    "Needs": [
+      {
+        "Key": "Faith",
+        "Value": 25
+      },
+      {
+        "Key": "Poem",
+        "Value": 25
+      }
+    ]
+  }
+}
